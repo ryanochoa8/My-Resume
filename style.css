@@ -1,0 +1,26 @@
+.margin-reverse-intro {
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: -60px;
+}
+.margin-reverse-experience {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.margin-reverse-projects {
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-top: 4rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+.full-page {
+  height: 25%;
+  width: 100%;
+}
+.bg-header {
+  height: 100vh;
+  background-image: url('https://w-eland.com/wp-content/uploads/2019/04/cool-dna-fullscreen-best.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
